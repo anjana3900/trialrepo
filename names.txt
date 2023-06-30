@@ -1,0 +1,4 @@
+this is version 1.
+"edited this names.txt using "vi names.txt" by opening in vim text editor.
+to enter insertion mode enter "i" key.
+to exit enter "esc".
